@@ -1,0 +1,1401 @@
+current_soil_moisture_pct,forecast_rainfall_7d_mm,crop_growth_stage,crop_et_7d_mm,irrigation_decision
+17.14,2.92,Seedling,20.11,Irrigate Now
+34.29,14.41,Maturity,37.65,Monitor
+39.05,2.43,Maturity,24.77,Monitor
+31.12,8.32,Flowering,20.31,Monitor
+29.91,8.43,Vegetative,22.7,Irrigate Now
+26.66,21.83,Vegetative,24.19,Skip - Rain Expected
+29.8,0.99,Vegetative,18.89,Irrigate Now
+46.76,13.64,Vegetative,13.43,Monitor
+49.03,2.8,Flowering,30.63,Monitor
+38.0,17.09,Maturity,21.23,Skip - Rain Expected
+29.65,2.01,Seedling,18.25,Irrigate Now
+17.35,8.19,Vegetative,21.29,Irrigate Now
+35.39,9.64,Flowering,24.63,Monitor
+34.73,1.62,Flowering,15.71,Monitor
+46.45,9.1,Flowering,18.42,Monitor
+21.72,2.44,Maturity,21.52,Irrigate Now
+41.14,10.7,Seedling,22.89,Monitor
+32.08,2.57,Maturity,26.83,Monitor
+50.47,1.89,Maturity,27.55,Monitor
+38.75,13.08,Seedling,27.6,Monitor
+31.2,41.57,Maturity,32.78,Skip - Rain Expected
+45.05,3.64,Seedling,21.19,Monitor
+52.56,0.72,Seedling,21.07,Monitor
+41.71,9.46,Maturity,25.3,Monitor
+16.2,1.43,Vegetative,7.24,Irrigate Now
+49.67,27.51,Flowering,21.44,Skip - Rain Expected
+37.05,7.66,Seedling,24.09,Monitor
+36.15,35.19,Vegetative,22.88,Skip - Rain Expected
+32.47,34.13,Flowering,24.71,Skip - Rain Expected
+19.98,9.99,Flowering,24.94,Irrigate Now
+26.75,11.74,Maturity,28.47,Irrigate Now
+33.11,30.54,Maturity,19.44,Skip - Rain Expected
+33.04,43.79,Maturity,34.46,Skip - Rain Expected
+40.38,1.61,Maturity,24.14,Monitor
+49.38,2.87,Flowering,22.19,Monitor
+20.74,11.38,Vegetative,25.01,Irrigate Now
+44.14,18.73,Vegetative,34.95,Skip - Rain Expected
+15.63,7.84,Flowering,37.96,Irrigate Now
+40.17,6.73,Seedling,26.45,Monitor
+12.98,7.56,Flowering,6.88,Irrigate Now
+39.63,23.99,Vegetative,26.86,Skip - Rain Expected
+9.83,5.82,Seedling,18.87,Irrigate Now
+30.02,15.86,Flowering,29.37,Skip - Rain Expected
+47.35,21.07,Flowering,13.54,Skip - Rain Expected
+11.58,10.05,Seedling,23.15,Irrigate Now
+43.41,0.61,Vegetative,28.0,Monitor
+48.91,11.33,Flowering,29.78,Monitor
+28.68,6.19,Vegetative,28.21,Irrigate Now
+30.85,0.68,Seedling,38.01,Monitor
+24.62,4.21,Maturity,16.48,Irrigate Now
+53.13,16.66,Maturity,14.26,Skip - Rain Expected
+22.18,9.88,Seedling,31.13,Irrigate Now
+70.12,11.87,Seedling,17.67,Monitor
+32.5,5.21,Vegetative,13.25,Monitor
+62.52,6.88,Seedling,20.58,Monitor
+10.58,2.58,Seedling,23.84,Irrigate Now
+37.02,9.96,Flowering,22.06,Monitor
+25.4,10.52,Vegetative,18.73,Irrigate Now
+10.98,22.06,Flowering,41.31,Skip - Rain Expected
+30.38,21.48,Seedling,20.17,Skip - Rain Expected
+29.66,6.05,Flowering,29.23,Irrigate Now
+43.48,7.7,Seedling,25.9,Monitor
+26.69,6.13,Vegetative,23.12,Irrigate Now
+40.57,16.58,Maturity,29.24,Skip - Rain Expected
+39.47,5.97,Maturity,18.04,Monitor
+20.22,5.23,Flowering,35.55,Irrigate Now
+40.23,22.4,Maturity,30.02,Skip - Rain Expected
+45.71,10.81,Flowering,33.92,Monitor
+36.58,0.32,Vegetative,16.92,Monitor
+49.31,0.14,Maturity,22.75,Monitor
+25.33,3.19,Maturity,16.64,Irrigate Now
+46.55,3.94,Maturity,19.41,Monitor
+25.47,22.18,Seedling,30.97,Skip - Rain Expected
+12.67,20.39,Seedling,17.5,Skip - Rain Expected
+37.08,15.27,Maturity,32.98,Skip - Rain Expected
+13.81,4.33,Maturity,22.22,Irrigate Now
+37.67,0.08,Seedling,11.0,Monitor
+32.06,13.17,Flowering,29.9,Monitor
+37.18,16.6,Vegetative,19.23,Skip - Rain Expected
+38.32,2.19,Seedling,18.57,Monitor
+28.94,4.95,Vegetative,25.15,Irrigate Now
+20.79,8.95,Seedling,34.15,Irrigate Now
+24.38,4.36,Seedling,36.6,Irrigate Now
+47.11,7.72,Flowering,5.0,Monitor
+33.15,20.92,Vegetative,43.72,Skip - Rain Expected
+24.89,4.68,Flowering,31.47,Irrigate Now
+48.08,4.61,Seedling,29.8,Monitor
+42.69,13.7,Flowering,14.96,Monitor
+34.05,38.03,Seedling,27.23,Skip - Rain Expected
+24.29,12.26,Flowering,18.15,Irrigate Now
+36.22,1.62,Flowering,29.79,Monitor
+21.34,0.35,Seedling,34.39,Irrigate Now
+25.38,7.19,Vegetative,28.61,Irrigate Now
+33.53,16.78,Vegetative,12.31,Skip - Rain Expected
+35.92,16.52,Maturity,34.2,Skip - Rain Expected
+5.91,5.04,Seedling,26.53,Irrigate Now
+35.32,2.93,Vegetative,22.69,Monitor
+38.9,3.76,Flowering,37.33,Monitor
+29.34,0.8,Flowering,40.56,Irrigate Now
+12.99,8.74,Seedling,42.4,Irrigate Now
+38.38,15.55,Flowering,24.69,Skip - Rain Expected
+32.79,24.59,Vegetative,21.21,Skip - Rain Expected
+14.2,23.75,Maturity,20.46,Skip - Rain Expected
+43.48,9.18,Seedling,17.18,Monitor
+35.6,23.51,Seedling,23.02,Skip - Rain Expected
+31.08,3.67,Flowering,25.57,Monitor
+28.19,0.0,Seedling,24.41,Irrigate Now
+35.61,30.87,Flowering,23.7,Skip - Rain Expected
+21.91,2.81,Vegetative,35.51,Irrigate Now
+21.94,0.49,Flowering,30.23,Irrigate Now
+35.58,56.63,Vegetative,38.56,Skip - Rain Expected
+41.17,8.55,Maturity,20.73,Monitor
+26.32,17.22,Vegetative,19.12,Skip - Rain Expected
+48.78,1.12,Seedling,26.6,Monitor
+20.58,1.39,Maturity,41.6,Irrigate Now
+22.9,17.1,Maturity,36.82,Skip - Rain Expected
+24.21,6.68,Vegetative,30.18,Irrigate Now
+56.54,4.74,Vegetative,29.83,Monitor
+57.2,1.01,Vegetative,33.03,Monitor
+44.53,18.75,Seedling,29.06,Skip - Rain Expected
+27.84,6.43,Seedling,33.94,Irrigate Now
+38.71,4.83,Maturity,32.59,Monitor
+34.27,0.02,Seedling,37.62,Monitor
+39.87,5.06,Seedling,30.4,Monitor
+10.75,14.36,Flowering,23.28,Irrigate Now
+33.83,6.16,Seedling,13.47,Monitor
+56.32,1.86,Vegetative,16.59,Monitor
+26.57,0.11,Vegetative,19.58,Irrigate Now
+44.67,5.09,Maturity,35.92,Monitor
+41.27,25.29,Flowering,38.29,Skip - Rain Expected
+52.74,1.21,Flowering,22.68,Monitor
+29.34,11.17,Maturity,41.52,Irrigate Now
+53.78,1.57,Vegetative,36.77,Monitor
+29.03,1.9,Flowering,30.26,Irrigate Now
+36.41,12.88,Flowering,39.7,Monitor
+45.56,18.3,Maturity,24.9,Skip - Rain Expected
+21.96,3.27,Flowering,30.02,Irrigate Now
+44.58,4.09,Seedling,27.92,Monitor
+44.35,0.89,Vegetative,14.17,Monitor
+42.14,4.57,Vegetative,15.87,Monitor
+36.37,3.8,Seedling,34.21,Monitor
+25.25,1.7,Seedling,41.0,Irrigate Now
+51.02,1.56,Seedling,22.35,Monitor
+5.05,2.89,Maturity,23.52,Irrigate Now
+45.56,10.46,Maturity,29.6,Monitor
+29.26,2.21,Maturity,14.11,Irrigate Now
+45.85,3.85,Maturity,32.77,Monitor
+37.26,7.55,Maturity,14.25,Monitor
+17.2,14.06,Maturity,16.23,Irrigate Now
+67.27,1.02,Seedling,26.22,Monitor
+38.85,6.96,Flowering,30.91,Monitor
+24.42,4.93,Vegetative,28.15,Irrigate Now
+29.12,15.36,Seedling,33.3,Skip - Rain Expected
+26.12,7.98,Vegetative,22.87,Irrigate Now
+44.86,11.29,Maturity,15.18,Monitor
+45.09,3.94,Flowering,22.39,Monitor
+34.4,11.89,Vegetative,24.63,Monitor
+59.73,4.74,Flowering,32.62,Monitor
+20.02,16.25,Flowering,40.02,Skip - Rain Expected
+39.72,10.3,Seedling,38.08,Monitor
+41.58,9.0,Vegetative,21.12,Monitor
+31.99,4.05,Seedling,30.74,Monitor
+28.09,17.01,Seedling,14.29,Skip - Rain Expected
+17.61,1.85,Flowering,25.03,Irrigate Now
+15.39,6.81,Maturity,19.64,Irrigate Now
+16.03,7.8,Seedling,25.17,Irrigate Now
+41.06,3.86,Seedling,21.8,Monitor
+51.52,3.74,Seedling,24.65,Monitor
+20.33,27.52,Vegetative,30.86,Skip - Rain Expected
+10.78,1.24,Vegetative,18.31,Irrigate Now
+31.72,2.14,Vegetative,27.09,Monitor
+36.48,0.61,Seedling,31.22,Monitor
+28.0,14.39,Vegetative,27.27,Irrigate Now
+36.34,13.91,Maturity,15.35,Monitor
+47.81,6.2,Vegetative,18.61,Monitor
+46.08,14.71,Flowering,18.84,Monitor
+13.8,37.52,Flowering,40.21,Skip - Rain Expected
+13.61,27.42,Maturity,23.73,Skip - Rain Expected
+28.29,9.36,Vegetative,26.39,Irrigate Now
+45.07,21.39,Seedling,43.75,Skip - Rain Expected
+39.88,4.43,Flowering,32.14,Monitor
+47.05,24.99,Seedling,21.24,Skip - Rain Expected
+51.8,4.59,Maturity,20.07,Monitor
+39.49,7.11,Maturity,31.13,Monitor
+21.41,4.69,Flowering,21.43,Irrigate Now
+52.46,14.81,Maturity,13.58,Monitor
+35.08,1.72,Vegetative,14.5,Monitor
+19.98,11.64,Vegetative,21.09,Irrigate Now
+37.38,8.45,Flowering,34.54,Monitor
+20.92,9.94,Maturity,20.17,Irrigate Now
+19.03,33.58,Seedling,15.46,Skip - Rain Expected
+29.33,3.05,Vegetative,18.94,Irrigate Now
+27.23,5.15,Seedling,32.04,Irrigate Now
+35.21,5.51,Vegetative,11.46,Monitor
+43.73,1.36,Seedling,15.45,Monitor
+41.23,4.95,Maturity,23.15,Monitor
+32.41,5.97,Vegetative,17.22,Monitor
+23.94,3.87,Maturity,37.86,Irrigate Now
+29.25,4.61,Flowering,14.7,Irrigate Now
+32.25,0.48,Maturity,26.91,Monitor
+32.46,26.32,Flowering,29.0,Skip - Rain Expected
+40.21,0.63,Seedling,20.78,Monitor
+24.68,5.61,Vegetative,24.96,Irrigate Now
+45.04,2.88,Vegetative,23.09,Monitor
+28.56,15.47,Seedling,34.49,Skip - Rain Expected
+15.65,10.8,Flowering,29.27,Irrigate Now
+15.24,38.08,Maturity,21.92,Skip - Rain Expected
+47.85,9.8,Vegetative,15.93,Monitor
+46.15,5.87,Seedling,22.3,Monitor
+39.49,13.87,Flowering,22.61,Monitor
+13.1,10.99,Maturity,23.37,Irrigate Now
+29.19,5.38,Vegetative,19.85,Irrigate Now
+35.65,19.26,Flowering,21.32,Skip - Rain Expected
+22.87,5.54,Seedling,21.45,Irrigate Now
+33.83,1.56,Seedling,30.57,Monitor
+28.81,17.29,Maturity,17.55,Skip - Rain Expected
+46.57,22.55,Flowering,12.15,Skip - Rain Expected
+42.69,41.05,Maturity,16.67,Skip - Rain Expected
+53.36,3.15,Maturity,34.85,Monitor
+38.79,4.69,Flowering,29.15,Monitor
+16.89,16.66,Seedling,26.17,Skip - Rain Expected
+28.07,45.33,Vegetative,18.87,Skip - Rain Expected
+37.01,22.37,Seedling,28.33,Skip - Rain Expected
+11.98,16.92,Vegetative,29.26,Skip - Rain Expected
+42.64,13.22,Vegetative,23.87,Monitor
+27.62,14.95,Maturity,23.44,Irrigate Now
+32.59,4.54,Vegetative,20.22,Monitor
+28.67,9.0,Seedling,40.27,Irrigate Now
+31.23,3.71,Vegetative,6.03,Monitor
+41.38,6.75,Seedling,32.01,Monitor
+37.67,12.22,Maturity,21.33,Monitor
+48.17,10.82,Maturity,24.04,Monitor
+34.24,4.24,Maturity,32.7,Monitor
+35.72,9.19,Maturity,33.26,Monitor
+28.9,2.81,Maturity,36.19,Irrigate Now
+51.57,0.83,Flowering,27.72,Monitor
+19.57,9.82,Seedling,20.79,Irrigate Now
+28.92,3.0,Flowering,20.16,Irrigate Now
+65.39,27.27,Flowering,19.14,Skip - Rain Expected
+45.52,14.41,Flowering,16.8,Monitor
+22.44,23.26,Vegetative,15.36,Skip - Rain Expected
+41.76,0.92,Vegetative,24.6,Monitor
+42.15,17.21,Vegetative,32.48,Skip - Rain Expected
+31.66,15.98,Flowering,25.56,Skip - Rain Expected
+30.87,0.83,Seedling,28.02,Monitor
+42.34,15.32,Seedling,33.92,Skip - Rain Expected
+30.18,0.92,Flowering,32.43,Monitor
+29.12,9.76,Vegetative,31.7,Irrigate Now
+39.1,4.87,Vegetative,18.33,Monitor
+43.87,5.17,Seedling,39.43,Monitor
+29.25,3.58,Vegetative,32.55,Irrigate Now
+39.18,6.36,Flowering,23.59,Monitor
+40.57,1.48,Maturity,21.89,Monitor
+25.78,7.86,Seedling,6.9,Irrigate Now
+28.1,5.71,Maturity,34.02,Irrigate Now
+46.04,0.27,Seedling,11.62,Monitor
+35.52,12.07,Vegetative,18.22,Monitor
+25.53,12.25,Seedling,13.78,Irrigate Now
+25.07,4.85,Seedling,5.0,Irrigate Now
+27.51,7.86,Maturity,24.92,Irrigate Now
+14.01,10.75,Seedling,21.96,Irrigate Now
+28.07,0.06,Seedling,32.62,Irrigate Now
+38.51,5.03,Vegetative,36.45,Monitor
+27.75,12.67,Seedling,24.47,Irrigate Now
+5.0,3.74,Maturity,41.09,Irrigate Now
+25.45,13.52,Flowering,28.4,Irrigate Now
+18.01,26.52,Seedling,19.59,Skip - Rain Expected
+27.78,9.06,Seedling,12.87,Irrigate Now
+42.71,15.23,Maturity,22.63,Skip - Rain Expected
+6.73,11.88,Vegetative,20.57,Irrigate Now
+35.36,1.05,Seedling,20.43,Monitor
+58.46,10.81,Seedling,16.39,Monitor
+17.26,8.98,Maturity,22.78,Irrigate Now
+31.91,3.15,Maturity,27.2,Monitor
+44.88,3.38,Seedling,31.08,Monitor
+42.18,9.08,Seedling,23.58,Monitor
+15.86,14.21,Flowering,45.7,Irrigate Now
+36.65,24.77,Maturity,34.05,Skip - Rain Expected
+49.97,0.13,Vegetative,31.65,Monitor
+40.32,5.23,Flowering,25.87,Monitor
+36.17,8.96,Vegetative,12.18,Monitor
+43.61,13.45,Seedling,21.31,Monitor
+32.18,27.85,Flowering,20.33,Skip - Rain Expected
+32.45,13.41,Vegetative,23.47,Monitor
+45.16,14.69,Seedling,13.34,Monitor
+24.1,1.71,Vegetative,33.44,Irrigate Now
+38.94,13.7,Vegetative,10.05,Monitor
+25.8,9.53,Seedling,14.96,Irrigate Now
+32.84,5.56,Flowering,13.78,Monitor
+31.37,4.71,Maturity,22.71,Monitor
+30.08,1.21,Maturity,18.6,Monitor
+29.89,9.23,Seedling,32.53,Irrigate Now
+17.67,4.95,Seedling,31.53,Irrigate Now
+25.87,0.4,Seedling,22.79,Irrigate Now
+28.05,7.99,Seedling,22.08,Irrigate Now
+5.0,9.98,Seedling,13.1,Irrigate Now
+26.79,0.99,Flowering,27.61,Irrigate Now
+41.23,2.06,Vegetative,21.76,Monitor
+21.38,32.43,Vegetative,21.33,Skip - Rain Expected
+23.54,8.99,Maturity,28.18,Irrigate Now
+32.81,3.86,Maturity,13.34,Monitor
+39.78,0.46,Seedling,26.87,Monitor
+43.37,3.51,Seedling,12.66,Monitor
+29.49,7.91,Maturity,14.8,Irrigate Now
+36.18,6.86,Vegetative,17.41,Monitor
+33.15,18.36,Vegetative,29.83,Skip - Rain Expected
+63.61,1.87,Maturity,15.76,Monitor
+14.1,4.03,Vegetative,28.73,Irrigate Now
+42.28,17.16,Flowering,16.0,Skip - Rain Expected
+59.06,8.17,Vegetative,15.95,Monitor
+32.94,3.44,Flowering,21.27,Monitor
+15.43,13.5,Maturity,5.0,Irrigate Now
+32.93,6.55,Seedling,37.0,Monitor
+9.16,10.11,Seedling,10.16,Irrigate Now
+34.28,0.66,Maturity,14.82,Monitor
+37.23,8.02,Seedling,22.32,Monitor
+9.38,3.14,Seedling,33.07,Irrigate Now
+50.64,2.74,Vegetative,37.84,Monitor
+29.22,19.29,Flowering,19.64,Skip - Rain Expected
+71.44,14.61,Vegetative,31.27,Monitor
+26.28,6.88,Maturity,23.77,Irrigate Now
+5.0,3.36,Maturity,36.16,Irrigate Now
+37.16,3.89,Maturity,27.03,Monitor
+30.06,1.77,Vegetative,35.59,Monitor
+53.87,62.9,Flowering,29.53,Skip - Rain Expected
+30.15,9.86,Maturity,32.94,Monitor
+27.23,25.91,Vegetative,34.56,Skip - Rain Expected
+27.96,32.42,Vegetative,39.84,Skip - Rain Expected
+38.25,3.35,Vegetative,46.5,Monitor
+49.29,0.55,Seedling,21.0,Monitor
+34.59,0.27,Flowering,16.21,Monitor
+18.21,1.77,Maturity,25.03,Irrigate Now
+21.89,7.02,Maturity,26.49,Irrigate Now
+33.94,19.03,Flowering,14.9,Skip - Rain Expected
+30.11,6.03,Maturity,24.58,Monitor
+32.16,0.58,Maturity,17.25,Monitor
+49.88,10.57,Vegetative,33.07,Monitor
+33.31,18.58,Flowering,16.49,Skip - Rain Expected
+22.13,5.12,Vegetative,41.02,Irrigate Now
+46.81,1.8,Vegetative,18.44,Monitor
+47.52,1.68,Seedling,23.67,Monitor
+29.05,3.05,Flowering,30.54,Irrigate Now
+41.53,17.0,Seedling,25.75,Skip - Rain Expected
+41.98,7.15,Vegetative,33.76,Monitor
+27.21,2.67,Flowering,35.1,Irrigate Now
+20.88,3.81,Maturity,31.95,Irrigate Now
+55.94,11.46,Vegetative,33.0,Monitor
+25.57,4.39,Seedling,36.9,Irrigate Now
+36.33,7.38,Vegetative,22.52,Monitor
+40.99,13.28,Seedling,25.28,Monitor
+36.54,12.58,Maturity,29.11,Monitor
+22.3,0.52,Flowering,25.39,Irrigate Now
+12.74,3.57,Flowering,19.97,Irrigate Now
+20.1,7.87,Vegetative,20.46,Irrigate Now
+33.11,10.19,Maturity,33.62,Monitor
+33.39,3.89,Vegetative,33.85,Monitor
+30.62,19.05,Seedling,35.58,Skip - Rain Expected
+41.26,29.33,Maturity,24.47,Skip - Rain Expected
+32.53,4.35,Vegetative,20.3,Monitor
+34.12,3.17,Seedling,42.45,Monitor
+24.31,24.48,Vegetative,29.65,Skip - Rain Expected
+51.42,44.88,Vegetative,30.73,Skip - Rain Expected
+34.31,26.74,Vegetative,13.15,Skip - Rain Expected
+39.06,2.38,Vegetative,30.75,Monitor
+45.25,9.71,Seedling,25.37,Monitor
+38.83,0.78,Flowering,23.94,Monitor
+7.26,22.94,Seedling,36.35,Skip - Rain Expected
+58.25,0.83,Maturity,26.42,Monitor
+39.19,0.7,Flowering,28.56,Monitor
+35.73,31.96,Flowering,35.0,Skip - Rain Expected
+26.72,14.72,Maturity,26.66,Irrigate Now
+31.43,4.24,Seedling,13.36,Monitor
+12.1,4.81,Vegetative,29.86,Irrigate Now
+27.37,1.78,Vegetative,28.23,Irrigate Now
+17.81,12.58,Maturity,24.32,Irrigate Now
+42.67,3.66,Seedling,32.16,Monitor
+25.43,0.65,Vegetative,37.53,Irrigate Now
+5.0,0.51,Seedling,26.43,Irrigate Now
+37.74,1.49,Maturity,29.06,Monitor
+57.29,9.32,Maturity,22.02,Monitor
+28.87,3.94,Vegetative,36.0,Irrigate Now
+22.87,10.26,Flowering,35.72,Irrigate Now
+11.98,4.08,Seedling,28.2,Irrigate Now
+25.44,25.14,Flowering,22.03,Skip - Rain Expected
+39.7,1.99,Maturity,22.79,Monitor
+20.21,10.32,Seedling,17.99,Irrigate Now
+32.28,11.13,Vegetative,28.92,Monitor
+46.44,19.74,Seedling,21.45,Skip - Rain Expected
+47.25,15.41,Maturity,32.63,Skip - Rain Expected
+39.55,8.46,Maturity,17.39,Monitor
+16.55,23.24,Flowering,29.83,Skip - Rain Expected
+44.56,7.35,Vegetative,32.95,Monitor
+50.36,8.23,Maturity,29.9,Monitor
+54.54,15.1,Maturity,28.76,Skip - Rain Expected
+32.51,19.32,Flowering,29.35,Skip - Rain Expected
+41.75,0.88,Maturity,28.66,Monitor
+32.85,8.17,Maturity,7.89,Monitor
+37.03,6.3,Vegetative,44.17,Monitor
+48.18,1.38,Flowering,13.22,Monitor
+45.54,3.43,Flowering,21.41,Monitor
+43.57,0.02,Maturity,28.52,Monitor
+55.52,28.98,Vegetative,16.48,Skip - Rain Expected
+48.17,2.42,Seedling,6.41,Monitor
+29.8,0.11,Vegetative,18.35,Irrigate Now
+41.58,37.08,Maturity,23.53,Skip - Rain Expected
+40.16,4.77,Flowering,25.12,Monitor
+24.44,4.74,Maturity,30.07,Irrigate Now
+54.22,16.81,Flowering,17.56,Skip - Rain Expected
+13.17,5.48,Flowering,37.73,Irrigate Now
+40.37,47.37,Seedling,25.23,Skip - Rain Expected
+43.42,53.33,Seedling,20.69,Skip - Rain Expected
+40.54,5.93,Vegetative,16.7,Monitor
+31.29,5.52,Flowering,28.54,Monitor
+34.4,15.19,Maturity,36.61,Skip - Rain Expected
+40.27,5.84,Maturity,11.47,Monitor
+10.85,25.98,Seedling,26.86,Skip - Rain Expected
+35.59,3.0,Seedling,23.4,Monitor
+63.65,3.34,Vegetative,22.64,Monitor
+14.19,7.52,Vegetative,14.3,Irrigate Now
+30.98,5.13,Seedling,33.69,Monitor
+23.8,0.7,Flowering,37.32,Irrigate Now
+40.45,3.94,Seedling,20.0,Monitor
+41.36,2.27,Maturity,14.64,Monitor
+37.2,1.03,Maturity,23.52,Monitor
+39.46,20.51,Flowering,14.5,Skip - Rain Expected
+25.47,8.91,Maturity,12.0,Irrigate Now
+18.12,32.72,Seedling,29.03,Skip - Rain Expected
+54.78,12.18,Flowering,31.18,Monitor
+40.69,8.4,Maturity,37.32,Monitor
+35.67,0.49,Maturity,19.8,Monitor
+36.79,2.79,Maturity,22.91,Monitor
+55.81,2.76,Flowering,27.32,Monitor
+8.32,12.53,Vegetative,31.7,Irrigate Now
+43.53,6.89,Flowering,28.12,Monitor
+29.96,10.13,Maturity,19.99,Irrigate Now
+24.03,0.53,Seedling,17.06,Irrigate Now
+41.33,10.86,Flowering,31.15,Monitor
+26.11,16.12,Flowering,28.61,Skip - Rain Expected
+17.81,16.97,Seedling,30.56,Skip - Rain Expected
+30.92,0.43,Vegetative,18.91,Monitor
+43.56,2.6,Maturity,31.08,Monitor
+36.27,2.98,Maturity,26.08,Monitor
+29.3,8.49,Flowering,40.82,Irrigate Now
+47.82,12.96,Seedling,27.03,Monitor
+30.94,2.27,Seedling,18.52,Monitor
+34.5,6.24,Vegetative,32.9,Monitor
+37.73,15.36,Seedling,30.73,Skip - Rain Expected
+27.2,4.65,Flowering,23.77,Irrigate Now
+19.7,1.53,Vegetative,31.81,Irrigate Now
+32.03,7.91,Flowering,9.13,Monitor
+44.44,16.39,Vegetative,34.05,Skip - Rain Expected
+35.11,13.88,Maturity,26.86,Monitor
+43.03,6.3,Flowering,20.61,Monitor
+14.06,0.9,Seedling,26.46,Irrigate Now
+45.72,5.89,Flowering,17.59,Monitor
+55.07,8.19,Maturity,28.66,Monitor
+30.24,34.33,Flowering,10.19,Skip - Rain Expected
+40.03,3.37,Maturity,34.08,Monitor
+41.72,4.74,Flowering,31.08,Monitor
+36.54,4.01,Maturity,23.34,Monitor
+44.83,17.38,Maturity,17.41,Skip - Rain Expected
+23.43,9.96,Seedling,29.97,Irrigate Now
+23.85,3.15,Vegetative,14.73,Irrigate Now
+21.71,2.33,Maturity,39.55,Irrigate Now
+29.71,25.32,Flowering,34.38,Skip - Rain Expected
+5.0,11.52,Flowering,26.46,Irrigate Now
+41.76,3.15,Seedling,24.8,Monitor
+56.73,19.98,Flowering,22.6,Skip - Rain Expected
+18.1,10.5,Seedling,26.91,Irrigate Now
+36.72,2.31,Seedling,16.36,Monitor
+23.57,3.93,Vegetative,26.27,Irrigate Now
+52.14,3.88,Seedling,24.68,Monitor
+16.56,12.89,Vegetative,16.35,Irrigate Now
+41.93,0.16,Vegetative,17.67,Monitor
+56.92,16.91,Vegetative,22.06,Skip - Rain Expected
+31.66,0.57,Flowering,21.15,Monitor
+38.49,4.9,Seedling,24.02,Monitor
+55.81,2.54,Vegetative,35.74,Monitor
+49.74,6.53,Vegetative,25.71,Monitor
+41.8,12.28,Maturity,40.93,Monitor
+46.03,26.04,Seedling,32.85,Skip - Rain Expected
+55.86,12.7,Flowering,35.69,Monitor
+26.53,2.55,Flowering,18.57,Irrigate Now
+54.73,0.9,Seedling,34.51,Monitor
+37.62,21.06,Vegetative,29.27,Skip - Rain Expected
+32.2,13.32,Maturity,27.86,Monitor
+30.51,9.89,Flowering,20.4,Monitor
+50.06,4.19,Flowering,23.9,Monitor
+53.85,16.12,Flowering,26.76,Skip - Rain Expected
+28.21,6.72,Flowering,16.92,Irrigate Now
+57.53,2.41,Vegetative,32.9,Monitor
+41.67,7.36,Maturity,33.35,Monitor
+36.34,6.33,Flowering,21.33,Monitor
+37.09,6.97,Maturity,34.56,Monitor
+61.35,17.72,Maturity,36.49,Skip - Rain Expected
+32.14,7.76,Maturity,33.45,Monitor
+18.84,2.67,Maturity,24.22,Irrigate Now
+55.13,33.99,Flowering,25.33,Skip - Rain Expected
+30.36,3.46,Maturity,11.52,Monitor
+31.17,1.99,Flowering,22.85,Monitor
+34.17,2.91,Maturity,17.9,Monitor
+57.51,14.28,Seedling,16.2,Monitor
+42.35,25.26,Maturity,36.91,Skip - Rain Expected
+43.97,52.7,Seedling,26.77,Skip - Rain Expected
+17.83,0.76,Seedling,11.59,Irrigate Now
+20.31,0.17,Flowering,17.2,Irrigate Now
+45.47,3.06,Maturity,14.5,Monitor
+44.57,2.04,Maturity,31.53,Monitor
+35.0,3.54,Flowering,33.91,Monitor
+21.77,11.85,Flowering,22.39,Irrigate Now
+40.28,3.56,Maturity,25.86,Monitor
+20.38,23.79,Vegetative,14.81,Skip - Rain Expected
+23.59,5.48,Maturity,28.84,Irrigate Now
+28.22,3.39,Flowering,30.66,Irrigate Now
+42.64,4.18,Seedling,26.24,Monitor
+38.28,3.94,Vegetative,38.11,Monitor
+46.03,6.0,Seedling,21.95,Monitor
+32.27,2.35,Maturity,14.62,Monitor
+42.24,6.76,Vegetative,23.77,Monitor
+44.68,29.97,Vegetative,22.26,Skip - Rain Expected
+29.0,5.93,Maturity,41.59,Irrigate Now
+28.29,1.17,Vegetative,18.76,Irrigate Now
+40.18,12.02,Vegetative,34.71,Monitor
+28.81,5.11,Flowering,25.24,Irrigate Now
+53.18,8.63,Vegetative,14.72,Monitor
+28.37,11.16,Vegetative,17.88,Irrigate Now
+36.74,28.02,Flowering,16.45,Skip - Rain Expected
+39.39,0.7,Seedling,34.2,Monitor
+53.6,2.31,Seedling,28.95,Monitor
+18.55,2.88,Vegetative,21.45,Irrigate Now
+50.79,0.82,Flowering,36.15,Monitor
+35.4,14.98,Vegetative,29.34,Monitor
+32.81,6.89,Flowering,21.26,Monitor
+35.14,15.93,Vegetative,15.33,Skip - Rain Expected
+34.69,25.54,Maturity,17.48,Skip - Rain Expected
+49.76,12.27,Flowering,27.32,Monitor
+53.13,3.48,Seedling,21.44,Monitor
+47.07,12.98,Flowering,20.07,Monitor
+18.06,33.07,Flowering,18.6,Skip - Rain Expected
+35.91,5.79,Maturity,23.24,Monitor
+38.84,28.61,Maturity,27.78,Skip - Rain Expected
+36.94,19.15,Flowering,34.19,Skip - Rain Expected
+23.53,9.36,Seedling,22.02,Irrigate Now
+22.7,3.38,Flowering,15.34,Irrigate Now
+41.9,20.81,Seedling,6.74,Skip - Rain Expected
+24.45,2.99,Flowering,28.35,Irrigate Now
+30.77,0.8,Flowering,14.33,Monitor
+40.14,2.59,Maturity,5.0,Monitor
+5.0,0.9,Flowering,22.0,Irrigate Now
+25.33,13.51,Vegetative,27.73,Irrigate Now
+33.62,4.34,Flowering,5.76,Monitor
+43.19,4.71,Seedling,26.83,Monitor
+44.72,4.72,Maturity,24.09,Monitor
+38.04,1.93,Seedling,20.24,Monitor
+34.56,7.49,Maturity,23.89,Monitor
+42.05,11.78,Seedling,33.6,Monitor
+47.09,4.25,Flowering,30.37,Monitor
+36.62,0.22,Flowering,33.6,Monitor
+49.39,6.14,Vegetative,25.97,Monitor
+66.41,11.64,Maturity,28.73,Monitor
+56.61,23.65,Maturity,25.74,Skip - Rain Expected
+23.1,4.2,Maturity,28.65,Irrigate Now
+24.42,1.18,Maturity,23.33,Irrigate Now
+35.32,24.83,Maturity,24.87,Skip - Rain Expected
+59.12,10.31,Seedling,22.02,Monitor
+29.14,2.64,Flowering,22.25,Irrigate Now
+33.2,1.78,Seedling,21.99,Monitor
+31.93,26.54,Maturity,27.33,Skip - Rain Expected
+36.84,3.27,Flowering,34.59,Monitor
+43.86,20.06,Maturity,29.93,Skip - Rain Expected
+24.8,30.3,Seedling,28.0,Skip - Rain Expected
+13.89,6.11,Seedling,34.36,Irrigate Now
+32.98,0.72,Seedling,28.21,Monitor
+33.57,0.37,Vegetative,23.64,Monitor
+37.51,7.95,Seedling,15.4,Monitor
+48.29,8.32,Vegetative,32.03,Monitor
+31.21,4.87,Seedling,26.18,Monitor
+17.06,6.04,Flowering,5.0,Irrigate Now
+29.46,32.04,Maturity,20.56,Skip - Rain Expected
+49.89,29.96,Seedling,19.92,Skip - Rain Expected
+43.1,2.52,Seedling,14.9,Monitor
+24.06,9.91,Maturity,32.79,Irrigate Now
+43.96,11.85,Maturity,25.22,Monitor
+18.44,2.54,Flowering,24.87,Irrigate Now
+33.82,28.81,Seedling,15.46,Skip - Rain Expected
+20.61,3.04,Flowering,22.42,Irrigate Now
+26.35,0.34,Vegetative,26.61,Irrigate Now
+27.38,3.18,Vegetative,19.4,Irrigate Now
+47.67,2.96,Seedling,26.32,Monitor
+29.19,15.7,Flowering,45.47,Skip - Rain Expected
+46.56,10.35,Maturity,11.06,Monitor
+42.58,3.45,Seedling,24.71,Monitor
+17.67,1.29,Maturity,18.5,Irrigate Now
+38.92,3.66,Maturity,23.65,Monitor
+25.65,11.98,Maturity,13.73,Irrigate Now
+60.31,13.6,Maturity,24.14,Monitor
+33.55,11.52,Flowering,14.92,Monitor
+5.84,4.71,Flowering,34.77,Irrigate Now
+24.56,15.64,Maturity,30.25,Skip - Rain Expected
+31.79,0.72,Flowering,14.1,Monitor
+39.9,0.55,Seedling,34.49,Monitor
+52.8,9.01,Seedling,19.32,Monitor
+41.07,0.87,Vegetative,20.87,Monitor
+46.57,17.03,Maturity,39.86,Skip - Rain Expected
+35.58,12.92,Flowering,25.39,Monitor
+19.68,3.03,Seedling,31.71,Irrigate Now
+55.31,3.3,Vegetative,33.0,Monitor
+32.22,21.12,Seedling,24.98,Skip - Rain Expected
+30.29,8.51,Vegetative,21.88,Monitor
+38.02,14.93,Vegetative,36.24,Monitor
+60.48,1.36,Flowering,34.89,Monitor
+37.89,3.28,Flowering,29.0,Monitor
+44.31,13.86,Maturity,29.72,Monitor
+25.81,4.78,Vegetative,30.7,Irrigate Now
+10.99,2.92,Seedling,37.25,Irrigate Now
+17.94,1.75,Maturity,28.09,Irrigate Now
+54.82,0.83,Seedling,27.02,Monitor
+19.21,4.45,Flowering,37.99,Irrigate Now
+39.19,25.44,Seedling,22.26,Skip - Rain Expected
+36.48,2.06,Seedling,40.0,Monitor
+46.69,34.16,Seedling,23.86,Skip - Rain Expected
+47.44,7.09,Flowering,21.67,Monitor
+34.39,10.78,Seedling,12.58,Monitor
+26.26,0.47,Vegetative,21.55,Irrigate Now
+28.87,17.23,Vegetative,15.66,Skip - Rain Expected
+23.38,6.73,Seedling,38.1,Irrigate Now
+14.92,9.57,Flowering,16.92,Irrigate Now
+26.6,31.99,Seedling,33.99,Skip - Rain Expected
+21.92,0.52,Flowering,16.77,Irrigate Now
+40.66,8.85,Seedling,28.45,Monitor
+42.61,22.68,Seedling,36.59,Skip - Rain Expected
+17.9,10.68,Maturity,25.76,Irrigate Now
+18.14,8.69,Seedling,23.75,Irrigate Now
+16.24,2.91,Maturity,33.93,Irrigate Now
+14.16,9.67,Vegetative,34.23,Irrigate Now
+27.63,5.78,Vegetative,17.37,Irrigate Now
+41.13,1.25,Seedling,29.96,Monitor
+53.03,0.26,Maturity,32.95,Monitor
+26.42,3.74,Vegetative,31.24,Irrigate Now
+28.76,4.75,Seedling,32.88,Irrigate Now
+56.54,0.02,Seedling,19.61,Monitor
+44.28,1.25,Flowering,23.97,Monitor
+32.07,3.97,Flowering,36.07,Monitor
+33.2,1.5,Seedling,19.46,Monitor
+30.65,19.33,Vegetative,20.41,Skip - Rain Expected
+28.12,12.72,Vegetative,19.6,Irrigate Now
+56.97,14.41,Maturity,25.95,Monitor
+47.89,2.09,Seedling,16.31,Monitor
+50.96,16.92,Seedling,23.05,Skip - Rain Expected
+5.0,10.53,Flowering,27.82,Irrigate Now
+32.85,0.87,Vegetative,40.11,Monitor
+22.0,0.14,Maturity,32.61,Irrigate Now
+30.81,12.9,Seedling,27.54,Monitor
+41.19,6.23,Vegetative,41.68,Monitor
+29.2,4.49,Maturity,28.71,Irrigate Now
+33.91,1.04,Vegetative,31.19,Monitor
+26.78,2.9,Flowering,22.37,Irrigate Now
+30.5,1.65,Vegetative,28.13,Monitor
+32.63,1.22,Seedling,31.81,Monitor
+23.88,1.24,Vegetative,35.4,Irrigate Now
+36.99,6.52,Seedling,28.96,Monitor
+17.65,3.67,Flowering,27.3,Irrigate Now
+50.49,25.62,Vegetative,30.86,Skip - Rain Expected
+30.48,33.73,Flowering,22.41,Skip - Rain Expected
+37.66,12.21,Flowering,16.61,Monitor
+46.24,3.57,Seedling,26.71,Monitor
+33.48,1.24,Maturity,14.82,Monitor
+18.78,17.32,Maturity,26.56,Skip - Rain Expected
+56.9,11.9,Vegetative,24.32,Monitor
+39.62,14.53,Seedling,25.82,Monitor
+51.62,15.31,Maturity,18.89,Skip - Rain Expected
+44.57,8.19,Flowering,31.53,Monitor
+26.27,7.43,Seedling,17.89,Irrigate Now
+47.3,3.38,Vegetative,17.41,Monitor
+54.84,18.23,Vegetative,21.4,Skip - Rain Expected
+35.27,2.42,Vegetative,26.85,Monitor
+55.35,13.82,Maturity,25.88,Monitor
+16.41,19.96,Flowering,20.19,Skip - Rain Expected
+30.5,32.47,Flowering,42.37,Skip - Rain Expected
+27.2,0.82,Maturity,25.96,Irrigate Now
+21.9,0.19,Seedling,13.22,Irrigate Now
+45.88,12.97,Maturity,43.16,Monitor
+31.88,4.37,Flowering,13.23,Monitor
+13.97,3.11,Maturity,30.79,Irrigate Now
+36.25,21.44,Flowering,21.34,Skip - Rain Expected
+33.18,8.5,Flowering,17.18,Monitor
+53.81,3.08,Seedling,17.54,Monitor
+33.17,4.02,Maturity,31.32,Monitor
+21.75,8.85,Maturity,35.63,Irrigate Now
+27.77,0.83,Maturity,10.77,Irrigate Now
+24.11,14.32,Maturity,25.88,Irrigate Now
+29.51,0.92,Seedling,43.06,Irrigate Now
+28.61,2.85,Flowering,25.2,Irrigate Now
+34.58,43.87,Maturity,33.47,Skip - Rain Expected
+28.53,0.26,Flowering,38.18,Irrigate Now
+29.82,6.37,Seedling,24.88,Irrigate Now
+53.53,1.44,Seedling,24.99,Monitor
+21.11,22.42,Maturity,29.59,Skip - Rain Expected
+28.91,36.35,Seedling,24.15,Skip - Rain Expected
+27.64,1.35,Flowering,30.31,Irrigate Now
+38.77,25.24,Maturity,19.89,Skip - Rain Expected
+22.76,25.65,Maturity,25.36,Skip - Rain Expected
+30.14,3.88,Maturity,22.15,Monitor
+38.65,3.14,Flowering,20.77,Monitor
+29.91,23.19,Flowering,31.78,Skip - Rain Expected
+51.62,13.06,Vegetative,17.96,Monitor
+50.51,18.55,Seedling,32.6,Skip - Rain Expected
+33.56,4.63,Flowering,20.59,Monitor
+36.59,15.22,Maturity,23.94,Skip - Rain Expected
+52.97,2.83,Flowering,8.2,Monitor
+27.19,18.23,Seedling,29.53,Skip - Rain Expected
+52.73,21.2,Flowering,26.5,Skip - Rain Expected
+51.84,13.59,Seedling,25.32,Monitor
+31.11,1.5,Flowering,26.55,Monitor
+28.5,0.15,Seedling,41.33,Irrigate Now
+31.49,9.35,Vegetative,34.4,Monitor
+43.48,4.39,Vegetative,10.19,Monitor
+38.85,5.71,Maturity,24.06,Monitor
+34.59,11.96,Vegetative,31.06,Monitor
+31.06,9.11,Maturity,48.39,Monitor
+35.35,7.31,Maturity,30.39,Monitor
+38.42,5.13,Vegetative,24.91,Monitor
+15.53,1.76,Maturity,27.11,Irrigate Now
+47.48,8.49,Vegetative,26.18,Monitor
+70.67,3.06,Maturity,22.91,Monitor
+25.17,5.61,Vegetative,21.41,Irrigate Now
+37.97,7.35,Seedling,50.42,Monitor
+50.65,32.16,Seedling,22.24,Skip - Rain Expected
+42.92,2.63,Maturity,38.63,Monitor
+22.04,0.21,Maturity,19.75,Irrigate Now
+41.64,5.52,Seedling,11.08,Monitor
+31.93,13.21,Flowering,25.79,Monitor
+26.65,1.57,Vegetative,13.03,Irrigate Now
+27.04,1.13,Maturity,26.03,Irrigate Now
+65.39,0.76,Maturity,25.7,Monitor
+32.17,16.69,Maturity,14.7,Skip - Rain Expected
+57.65,6.51,Vegetative,21.27,Monitor
+51.96,1.65,Maturity,18.82,Monitor
+24.79,2.47,Flowering,29.79,Irrigate Now
+16.8,0.61,Maturity,36.04,Irrigate Now
+35.39,13.54,Maturity,24.57,Monitor
+35.71,2.97,Seedling,31.78,Monitor
+27.15,0.65,Seedling,11.87,Irrigate Now
+24.54,1.74,Maturity,37.19,Irrigate Now
+39.73,8.57,Flowering,17.41,Monitor
+29.19,11.11,Flowering,21.04,Irrigate Now
+44.54,15.51,Maturity,21.92,Skip - Rain Expected
+43.76,34.2,Flowering,20.67,Skip - Rain Expected
+34.78,17.6,Maturity,26.99,Skip - Rain Expected
+30.55,7.36,Flowering,27.16,Monitor
+35.59,9.32,Flowering,26.48,Monitor
+54.98,2.03,Vegetative,26.04,Monitor
+39.13,1.09,Vegetative,32.1,Monitor
+46.18,15.31,Seedling,29.91,Skip - Rain Expected
+22.41,19.57,Vegetative,36.48,Skip - Rain Expected
+41.8,23.17,Flowering,17.09,Skip - Rain Expected
+58.97,11.91,Seedling,29.36,Monitor
+59.68,31.97,Maturity,26.58,Skip - Rain Expected
+34.91,7.62,Flowering,24.54,Monitor
+39.12,2.16,Maturity,5.0,Monitor
+50.91,18.05,Flowering,18.18,Skip - Rain Expected
+36.36,0.35,Maturity,19.14,Monitor
+24.66,0.49,Flowering,31.67,Irrigate Now
+22.58,28.23,Flowering,14.45,Skip - Rain Expected
+16.13,17.45,Maturity,33.77,Skip - Rain Expected
+44.24,11.57,Vegetative,5.0,Monitor
+32.43,5.61,Flowering,32.86,Monitor
+50.49,8.3,Maturity,18.99,Monitor
+35.66,12.26,Flowering,15.1,Monitor
+36.27,21.31,Flowering,9.75,Skip - Rain Expected
+30.0,6.98,Vegetative,18.06,Monitor
+29.03,5.49,Flowering,24.86,Irrigate Now
+36.13,7.16,Flowering,21.36,Monitor
+17.09,20.43,Flowering,28.39,Skip - Rain Expected
+31.95,6.83,Maturity,44.97,Monitor
+38.07,0.13,Flowering,30.28,Monitor
+27.67,11.54,Flowering,18.08,Irrigate Now
+18.33,17.04,Flowering,25.66,Skip - Rain Expected
+50.36,8.01,Vegetative,18.69,Monitor
+33.03,7.25,Flowering,32.23,Monitor
+43.96,0.35,Maturity,9.93,Monitor
+32.73,23.0,Vegetative,13.64,Skip - Rain Expected
+29.52,5.54,Seedling,17.3,Irrigate Now
+41.51,3.87,Flowering,29.94,Monitor
+57.11,3.47,Flowering,12.03,Monitor
+28.92,17.45,Flowering,19.64,Skip - Rain Expected
+14.68,17.45,Seedling,21.43,Skip - Rain Expected
+49.53,38.18,Seedling,26.86,Skip - Rain Expected
+53.93,5.42,Flowering,16.54,Monitor
+32.41,10.91,Maturity,33.95,Monitor
+32.52,10.65,Maturity,32.04,Monitor
+16.03,6.73,Vegetative,18.59,Irrigate Now
+37.32,3.53,Vegetative,21.14,Monitor
+33.18,1.42,Maturity,16.79,Monitor
+34.09,9.36,Flowering,37.86,Monitor
+25.17,5.51,Flowering,16.6,Irrigate Now
+45.14,0.36,Maturity,28.59,Monitor
+18.91,8.56,Maturity,33.44,Irrigate Now
+27.77,29.57,Maturity,27.68,Skip - Rain Expected
+19.24,16.93,Vegetative,41.41,Skip - Rain Expected
+46.15,7.6,Seedling,20.25,Monitor
+49.89,18.6,Flowering,25.42,Skip - Rain Expected
+33.62,9.49,Flowering,22.36,Monitor
+30.3,3.28,Vegetative,19.34,Monitor
+30.62,55.85,Seedling,28.65,Skip - Rain Expected
+47.27,12.92,Vegetative,16.12,Monitor
+37.98,5.16,Maturity,9.96,Monitor
+32.42,19.89,Seedling,27.86,Skip - Rain Expected
+34.4,2.63,Maturity,29.11,Monitor
+46.99,8.94,Maturity,19.54,Monitor
+35.13,3.19,Seedling,27.54,Monitor
+39.29,0.56,Maturity,23.42,Monitor
+44.89,2.94,Maturity,18.74,Monitor
+26.57,13.42,Seedling,9.04,Irrigate Now
+34.96,0.3,Vegetative,19.14,Monitor
+9.83,12.95,Maturity,5.91,Irrigate Now
+25.91,8.21,Vegetative,27.89,Irrigate Now
+39.44,16.02,Flowering,32.84,Skip - Rain Expected
+30.32,9.69,Seedling,16.53,Monitor
+50.25,0.72,Maturity,29.69,Monitor
+62.07,11.37,Seedling,35.11,Monitor
+50.53,6.84,Flowering,30.91,Monitor
+35.48,0.39,Seedling,20.59,Monitor
+50.66,3.53,Maturity,28.09,Monitor
+41.94,1.99,Seedling,34.98,Monitor
+17.48,10.9,Vegetative,31.5,Irrigate Now
+50.72,5.17,Vegetative,16.2,Monitor
+28.89,3.71,Vegetative,28.43,Irrigate Now
+19.5,16.21,Vegetative,26.13,Skip - Rain Expected
+48.37,6.16,Maturity,39.41,Monitor
+44.13,1.02,Flowering,17.74,Monitor
+25.3,12.05,Seedling,31.49,Irrigate Now
+30.26,31.9,Maturity,27.37,Skip - Rain Expected
+74.43,10.95,Maturity,29.42,Monitor
+39.8,4.85,Vegetative,25.26,Monitor
+48.31,34.45,Vegetative,30.84,Skip - Rain Expected
+47.78,15.39,Seedling,29.39,Skip - Rain Expected
+25.49,0.8,Seedling,20.68,Irrigate Now
+20.97,0.44,Flowering,30.86,Irrigate Now
+32.89,6.74,Maturity,13.19,Monitor
+39.2,5.73,Seedling,15.52,Monitor
+37.49,31.67,Vegetative,39.01,Skip - Rain Expected
+43.48,3.07,Seedling,19.51,Monitor
+22.08,1.6,Maturity,16.2,Irrigate Now
+49.08,11.82,Vegetative,35.48,Monitor
+37.19,1.06,Maturity,21.45,Monitor
+36.27,16.13,Seedling,44.11,Skip - Rain Expected
+45.22,4.68,Seedling,22.78,Monitor
+18.76,0.67,Flowering,32.0,Irrigate Now
+32.62,11.14,Vegetative,39.16,Monitor
+46.29,1.25,Maturity,34.95,Monitor
+5.0,20.51,Seedling,31.09,Skip - Rain Expected
+40.35,14.43,Maturity,20.89,Monitor
+30.11,31.47,Flowering,26.58,Skip - Rain Expected
+43.3,0.73,Vegetative,26.67,Monitor
+34.92,66.87,Seedling,27.1,Skip - Rain Expected
+38.23,9.23,Vegetative,15.28,Monitor
+42.1,0.24,Seedling,20.61,Monitor
+9.55,0.95,Maturity,25.73,Irrigate Now
+36.09,19.27,Maturity,17.89,Skip - Rain Expected
+33.66,14.86,Vegetative,32.3,Monitor
+36.38,10.21,Maturity,28.74,Monitor
+34.33,17.61,Maturity,22.43,Skip - Rain Expected
+35.55,9.3,Seedling,13.98,Monitor
+24.76,3.95,Flowering,38.13,Irrigate Now
+45.44,25.43,Flowering,34.54,Skip - Rain Expected
+29.83,15.81,Maturity,29.03,Skip - Rain Expected
+46.94,23.07,Seedling,21.76,Skip - Rain Expected
+23.79,1.77,Seedling,16.8,Irrigate Now
+38.6,6.09,Vegetative,23.61,Monitor
+19.89,39.47,Seedling,21.63,Skip - Rain Expected
+35.65,9.4,Flowering,15.87,Monitor
+34.87,2.27,Maturity,5.11,Monitor
+44.34,4.53,Maturity,21.52,Monitor
+36.03,22.84,Seedling,28.85,Skip - Rain Expected
+17.89,10.57,Maturity,19.7,Irrigate Now
+42.32,11.52,Flowering,20.47,Monitor
+34.16,20.03,Seedling,19.3,Skip - Rain Expected
+37.86,6.11,Flowering,35.03,Monitor
+36.43,11.05,Maturity,27.89,Monitor
+9.67,1.4,Vegetative,14.79,Irrigate Now
+13.06,23.8,Seedling,17.0,Skip - Rain Expected
+16.63,9.72,Vegetative,22.28,Irrigate Now
+37.44,6.53,Maturity,19.1,Monitor
+34.79,4.99,Maturity,22.9,Monitor
+20.91,0.13,Vegetative,18.62,Irrigate Now
+40.56,3.72,Seedling,32.15,Monitor
+39.91,5.7,Maturity,5.85,Monitor
+26.66,21.84,Maturity,32.24,Skip - Rain Expected
+24.17,9.33,Seedling,18.4,Irrigate Now
+32.46,4.74,Maturity,17.65,Monitor
+22.27,20.77,Seedling,12.13,Skip - Rain Expected
+58.14,4.41,Flowering,24.03,Monitor
+21.32,1.53,Flowering,25.95,Irrigate Now
+33.21,11.38,Vegetative,33.89,Monitor
+35.45,4.32,Vegetative,15.62,Monitor
+35.02,5.58,Maturity,38.51,Monitor
+28.33,14.09,Vegetative,27.47,Irrigate Now
+54.99,7.06,Maturity,23.65,Monitor
+50.1,1.62,Maturity,39.95,Monitor
+35.41,2.98,Maturity,28.5,Monitor
+34.0,0.83,Maturity,26.29,Monitor
+61.15,19.5,Seedling,40.91,Skip - Rain Expected
+25.66,6.69,Maturity,39.93,Irrigate Now
+32.26,0.32,Seedling,10.03,Monitor
+21.27,1.66,Flowering,14.14,Irrigate Now
+45.96,11.01,Vegetative,39.23,Monitor
+49.39,15.51,Seedling,15.46,Skip - Rain Expected
+43.98,22.84,Vegetative,41.07,Skip - Rain Expected
+68.42,5.09,Seedling,34.98,Monitor
+34.97,13.78,Maturity,10.27,Monitor
+50.5,4.37,Vegetative,25.44,Monitor
+29.58,2.8,Seedling,13.08,Irrigate Now
+27.27,8.15,Vegetative,33.59,Irrigate Now
+20.35,24.89,Vegetative,14.29,Skip - Rain Expected
+22.16,2.59,Flowering,19.53,Irrigate Now
+26.81,2.37,Vegetative,24.57,Irrigate Now
+12.95,12.85,Vegetative,27.62,Irrigate Now
+32.07,10.85,Flowering,31.68,Monitor
+36.74,4.64,Vegetative,14.18,Monitor
+20.8,7.98,Flowering,30.58,Irrigate Now
+29.71,2.02,Vegetative,31.11,Irrigate Now
+22.77,11.45,Seedling,13.42,Irrigate Now
+23.79,3.32,Flowering,31.17,Irrigate Now
+37.21,6.87,Flowering,22.93,Monitor
+46.53,10.45,Flowering,34.35,Monitor
+39.42,10.66,Maturity,27.09,Monitor
+26.6,5.95,Flowering,36.72,Irrigate Now
+38.68,13.64,Maturity,24.29,Monitor
+12.46,0.39,Vegetative,27.34,Irrigate Now
+28.9,14.54,Seedling,23.91,Irrigate Now
+14.92,4.36,Maturity,37.64,Irrigate Now
+5.0,5.22,Vegetative,19.47,Irrigate Now
+27.46,0.14,Maturity,21.73,Irrigate Now
+44.09,1.42,Flowering,21.14,Monitor
+20.14,39.27,Flowering,25.02,Skip - Rain Expected
+41.68,25.84,Maturity,31.89,Skip - Rain Expected
+51.55,2.3,Vegetative,33.29,Monitor
+51.85,4.37,Vegetative,31.57,Monitor
+38.81,5.7,Maturity,13.24,Monitor
+27.82,1.42,Maturity,25.87,Irrigate Now
+43.93,14.98,Flowering,13.77,Monitor
+62.0,16.12,Maturity,11.16,Skip - Rain Expected
+39.54,0.11,Vegetative,33.74,Monitor
+18.91,5.63,Maturity,7.36,Irrigate Now
+55.36,34.18,Flowering,20.54,Skip - Rain Expected
+34.62,1.55,Flowering,27.95,Monitor
+52.35,3.03,Seedling,27.49,Monitor
+44.95,10.8,Seedling,13.22,Monitor
+33.27,18.66,Vegetative,18.05,Skip - Rain Expected
+29.6,10.24,Seedling,22.9,Irrigate Now
+32.88,5.29,Maturity,18.16,Monitor
+46.11,0.44,Seedling,27.29,Monitor
+46.81,9.88,Vegetative,24.2,Monitor
+43.68,1.97,Flowering,19.23,Monitor
+26.09,34.2,Flowering,18.1,Skip - Rain Expected
+41.6,14.21,Maturity,30.44,Monitor
+29.75,9.67,Vegetative,23.67,Irrigate Now
+45.37,0.76,Vegetative,41.29,Monitor
+24.86,15.74,Flowering,43.66,Skip - Rain Expected
+36.37,3.36,Flowering,8.49,Monitor
+28.36,13.23,Seedling,30.71,Irrigate Now
+44.62,31.35,Maturity,26.67,Skip - Rain Expected
+29.63,2.42,Maturity,30.41,Irrigate Now
+22.97,2.8,Seedling,21.02,Irrigate Now
+40.69,0.32,Flowering,31.42,Monitor
+5.0,3.88,Seedling,28.57,Irrigate Now
+31.0,16.58,Maturity,26.84,Skip - Rain Expected
+26.43,2.12,Vegetative,29.41,Irrigate Now
+44.49,4.39,Vegetative,25.38,Monitor
+37.06,1.78,Seedling,33.12,Monitor
+17.53,1.59,Flowering,28.19,Irrigate Now
+55.26,28.82,Maturity,34.25,Skip - Rain Expected
+27.14,1.54,Flowering,25.75,Irrigate Now
+30.41,1.4,Maturity,27.26,Monitor
+40.6,1.46,Maturity,27.89,Monitor
+68.79,3.87,Maturity,32.82,Monitor
+28.52,2.74,Maturity,35.67,Irrigate Now
+25.4,1.55,Vegetative,28.1,Irrigate Now
+36.08,3.08,Flowering,28.31,Monitor
+20.79,14.83,Maturity,21.55,Irrigate Now
+22.55,0.56,Seedling,18.11,Irrigate Now
+13.37,0.87,Flowering,17.79,Irrigate Now
+32.22,27.17,Maturity,26.31,Skip - Rain Expected
+32.77,1.18,Seedling,6.92,Monitor
+39.04,8.8,Maturity,29.19,Monitor
+38.17,4.98,Seedling,27.01,Monitor
+44.56,14.48,Maturity,29.24,Monitor
+31.82,21.05,Vegetative,26.81,Skip - Rain Expected
+42.43,2.13,Flowering,16.15,Monitor
+20.19,13.34,Flowering,22.89,Irrigate Now
+51.35,34.27,Maturity,22.62,Skip - Rain Expected
+42.75,1.66,Seedling,23.71,Monitor
+18.47,5.31,Seedling,9.99,Irrigate Now
+22.67,9.81,Maturity,26.33,Irrigate Now
+36.85,23.41,Vegetative,31.46,Skip - Rain Expected
+43.73,27.71,Vegetative,42.47,Skip - Rain Expected
+49.49,3.34,Maturity,15.17,Monitor
+35.5,13.33,Flowering,39.35,Monitor
+28.23,25.12,Maturity,24.16,Skip - Rain Expected
+30.43,39.51,Maturity,27.47,Skip - Rain Expected
+43.86,22.74,Flowering,27.76,Skip - Rain Expected
+52.02,0.68,Vegetative,38.48,Monitor
+46.54,3.92,Maturity,18.72,Monitor
+42.42,7.09,Seedling,8.8,Monitor
+56.22,3.3,Maturity,29.36,Monitor
+35.57,12.52,Seedling,34.12,Monitor
+17.64,0.36,Flowering,27.53,Irrigate Now
+14.9,11.41,Seedling,36.92,Irrigate Now
+43.62,4.33,Flowering,6.87,Monitor
+41.22,4.1,Flowering,21.25,Monitor
+36.71,24.13,Seedling,16.75,Skip - Rain Expected
+32.98,9.1,Vegetative,33.07,Monitor
+29.88,12.95,Vegetative,27.34,Irrigate Now
+16.97,5.31,Maturity,21.04,Irrigate Now
+25.78,8.55,Seedling,8.06,Irrigate Now
+46.1,2.91,Flowering,29.87,Monitor
+38.54,58.68,Flowering,35.41,Skip - Rain Expected
+28.88,19.11,Seedling,18.92,Skip - Rain Expected
+42.4,8.9,Vegetative,5.0,Monitor
+44.11,19.62,Seedling,24.13,Skip - Rain Expected
+46.24,12.99,Maturity,39.2,Monitor
+35.4,1.31,Maturity,15.78,Monitor
+37.97,25.23,Seedling,12.75,Skip - Rain Expected
+44.14,6.18,Vegetative,34.38,Monitor
+38.32,14.14,Vegetative,32.51,Monitor
+52.65,3.37,Seedling,35.99,Monitor
+47.46,30.32,Vegetative,32.42,Skip - Rain Expected
+42.69,6.08,Seedling,26.34,Monitor
+36.77,2.03,Flowering,14.67,Monitor
+42.59,1.12,Vegetative,22.73,Monitor
+29.71,35.41,Maturity,39.19,Skip - Rain Expected
+14.55,14.6,Maturity,23.06,Irrigate Now
+41.3,7.36,Seedling,18.25,Monitor
+34.45,10.44,Flowering,25.95,Monitor
+16.28,5.64,Seedling,18.56,Irrigate Now
+40.23,9.88,Seedling,32.19,Monitor
+19.39,0.73,Seedling,44.99,Irrigate Now
+29.78,23.61,Vegetative,20.39,Skip - Rain Expected
+27.16,1.61,Vegetative,42.92,Irrigate Now
+41.97,3.73,Flowering,14.48,Monitor
+39.82,3.79,Seedling,19.8,Monitor
+26.04,6.85,Flowering,30.22,Irrigate Now
+36.1,3.85,Seedling,20.64,Monitor
+26.29,3.23,Seedling,34.62,Irrigate Now
+27.7,7.46,Vegetative,20.47,Irrigate Now
+25.14,0.48,Maturity,14.97,Irrigate Now
+33.51,4.64,Flowering,5.0,Monitor
+49.24,7.43,Maturity,28.52,Monitor
+45.39,8.78,Seedling,25.29,Monitor
+31.77,5.58,Seedling,30.49,Monitor
+22.05,78.27,Vegetative,15.64,Skip - Rain Expected
+27.49,1.55,Maturity,37.05,Irrigate Now
+54.02,2.94,Flowering,19.66,Monitor
+21.44,12.7,Flowering,28.14,Irrigate Now
+38.43,4.46,Seedling,25.37,Monitor
+36.86,17.01,Flowering,33.58,Skip - Rain Expected
+43.98,3.18,Seedling,31.61,Monitor
+37.42,5.44,Seedling,21.35,Monitor
+36.05,7.53,Seedling,9.76,Monitor
+25.07,26.73,Seedling,23.37,Skip - Rain Expected
+44.37,6.16,Maturity,22.33,Monitor
+38.76,0.75,Seedling,34.98,Monitor
+34.31,1.09,Flowering,8.59,Monitor
+53.76,6.84,Flowering,25.12,Monitor
+48.83,8.75,Flowering,24.26,Monitor
+31.79,6.99,Vegetative,23.39,Monitor
+37.57,13.15,Flowering,37.58,Monitor
+28.12,7.65,Vegetative,27.38,Irrigate Now
+27.59,6.54,Flowering,25.2,Irrigate Now
+52.1,0.71,Flowering,24.94,Monitor
+21.91,3.19,Maturity,34.03,Irrigate Now
+25.31,37.06,Seedling,32.97,Skip - Rain Expected
+21.95,14.06,Vegetative,23.61,Irrigate Now
+20.38,0.54,Seedling,29.89,Irrigate Now
+22.53,6.52,Maturity,27.64,Irrigate Now
+38.43,24.03,Seedling,35.32,Skip - Rain Expected
+26.28,18.29,Seedling,37.28,Skip - Rain Expected
+36.03,12.17,Maturity,17.67,Monitor
+48.21,17.38,Maturity,15.97,Skip - Rain Expected
+40.99,10.68,Vegetative,23.3,Monitor
+28.91,3.45,Flowering,25.36,Irrigate Now
+45.44,0.18,Seedling,18.67,Monitor
+32.34,11.31,Seedling,30.54,Monitor
+59.07,6.55,Maturity,33.49,Monitor
+38.46,8.46,Maturity,39.17,Monitor
+14.74,56.87,Maturity,19.02,Skip - Rain Expected
+21.68,22.28,Flowering,16.36,Skip - Rain Expected
+33.81,1.96,Flowering,33.26,Monitor
+49.1,1.94,Maturity,18.61,Monitor
+43.03,0.65,Flowering,34.11,Monitor
+37.68,19.55,Maturity,19.07,Skip - Rain Expected
+22.24,8.69,Seedling,5.45,Irrigate Now
+40.89,0.42,Seedling,33.89,Monitor
+26.29,13.95,Vegetative,25.13,Irrigate Now
+31.47,3.11,Flowering,21.17,Monitor
+51.68,11.75,Maturity,12.13,Monitor
+13.53,8.15,Maturity,38.63,Irrigate Now
+29.8,39.9,Vegetative,21.12,Skip - Rain Expected
+27.47,4.73,Flowering,21.41,Irrigate Now
+49.31,0.17,Vegetative,39.73,Monitor
+47.02,12.22,Flowering,27.82,Monitor
+33.98,9.47,Maturity,14.83,Monitor
+35.99,24.85,Flowering,41.15,Skip - Rain Expected
+25.98,3.01,Seedling,40.6,Irrigate Now
+22.94,5.04,Seedling,34.07,Irrigate Now
+65.25,0.82,Flowering,16.58,Monitor
+25.97,14.86,Vegetative,17.12,Irrigate Now
+38.95,9.03,Flowering,11.86,Monitor
+29.8,7.29,Seedling,30.25,Irrigate Now
+39.44,1.64,Maturity,34.49,Monitor
+44.96,7.94,Flowering,22.47,Monitor
+31.42,4.54,Vegetative,34.21,Monitor
+30.81,14.54,Seedling,27.37,Monitor
+65.14,1.21,Maturity,22.65,Monitor
+31.67,19.29,Maturity,22.69,Skip - Rain Expected
+23.05,11.2,Flowering,7.65,Irrigate Now
+32.64,3.08,Flowering,22.64,Monitor
+20.82,6.6,Seedling,32.73,Irrigate Now
+43.18,16.73,Flowering,26.59,Skip - Rain Expected
+22.24,4.65,Vegetative,36.8,Irrigate Now
+5.0,8.42,Flowering,19.94,Irrigate Now
+37.88,8.39,Seedling,19.99,Monitor
+18.76,8.39,Vegetative,28.2,Irrigate Now
+46.03,1.88,Vegetative,32.73,Monitor
+53.85,44.56,Flowering,28.95,Skip - Rain Expected
+22.14,7.11,Vegetative,19.14,Irrigate Now
+36.19,5.88,Flowering,34.27,Monitor
+34.26,8.34,Maturity,36.61,Monitor
+36.13,5.25,Vegetative,21.18,Monitor
+31.64,11.5,Maturity,41.27,Monitor
+49.83,6.06,Seedling,44.74,Monitor
+41.24,1.1,Maturity,44.53,Monitor
+26.86,1.75,Flowering,22.11,Irrigate Now
+38.26,12.76,Maturity,29.33,Monitor
+20.46,6.19,Vegetative,19.64,Irrigate Now
+18.61,14.74,Seedling,30.91,Irrigate Now
+50.69,3.63,Flowering,21.28,Monitor
+21.99,10.8,Flowering,19.94,Irrigate Now
+45.1,2.16,Maturity,15.73,Monitor
+18.11,37.13,Seedling,37.33,Skip - Rain Expected
+50.43,0.57,Seedling,26.57,Monitor
+29.7,0.23,Seedling,16.81,Irrigate Now
+13.65,2.48,Flowering,26.26,Irrigate Now
+34.51,17.51,Flowering,20.89,Skip - Rain Expected
+27.23,1.23,Maturity,23.16,Irrigate Now
+21.71,7.32,Flowering,37.86,Irrigate Now
+29.58,4.68,Flowering,26.23,Irrigate Now
+39.5,0.15,Maturity,25.22,Monitor
+51.95,1.44,Flowering,16.13,Monitor
+37.84,1.32,Vegetative,28.29,Monitor
+37.24,0.83,Maturity,16.54,Monitor
+29.5,2.95,Maturity,31.35,Irrigate Now
+35.25,0.25,Vegetative,25.57,Monitor
+18.8,4.86,Seedling,17.04,Irrigate Now
+41.78,2.53,Flowering,16.81,Monitor
+40.33,8.85,Maturity,33.98,Monitor
+36.79,8.74,Vegetative,19.69,Monitor
+36.36,1.26,Vegetative,13.47,Monitor
+42.95,2.39,Maturity,22.49,Monitor
+34.21,2.74,Maturity,19.09,Monitor
+28.04,13.61,Maturity,17.89,Irrigate Now
+29.12,12.71,Flowering,26.25,Irrigate Now
+34.06,27.11,Maturity,19.53,Skip - Rain Expected
+31.48,5.99,Maturity,19.19,Monitor
+17.5,1.58,Seedling,18.94,Irrigate Now
+52.16,12.77,Flowering,27.38,Monitor
+51.82,6.65,Seedling,13.56,Monitor
+37.76,5.62,Maturity,20.41,Monitor
+45.48,16.96,Vegetative,27.44,Skip - Rain Expected
+44.37,27.57,Seedling,27.56,Skip - Rain Expected
+12.88,4.06,Seedling,29.15,Irrigate Now
+43.41,10.06,Vegetative,22.28,Monitor
+35.03,2.35,Maturity,27.25,Monitor
+28.96,17.87,Flowering,25.62,Skip - Rain Expected
+38.49,8.65,Vegetative,18.39,Monitor
+34.45,35.7,Vegetative,32.85,Skip - Rain Expected
+7.13,11.76,Flowering,25.28,Irrigate Now
+32.13,5.51,Maturity,31.31,Monitor
+47.48,12.37,Vegetative,25.67,Monitor
+52.29,3.41,Flowering,23.63,Monitor
+37.37,28.1,Maturity,29.99,Skip - Rain Expected
+23.3,9.43,Flowering,26.33,Irrigate Now
+43.51,1.03,Seedling,15.61,Monitor
+31.59,7.92,Seedling,31.37,Monitor
+50.33,19.01,Seedling,18.09,Skip - Rain Expected
+27.62,4.17,Vegetative,22.37,Irrigate Now
+44.68,9.85,Flowering,19.96,Monitor
+42.56,21.1,Vegetative,35.51,Skip - Rain Expected
+30.3,4.17,Vegetative,14.95,Monitor
+21.24,10.96,Vegetative,17.07,Irrigate Now
+18.2,5.24,Maturity,17.68,Irrigate Now
+50.7,3.08,Vegetative,28.79,Monitor
+37.11,6.19,Vegetative,22.98,Monitor
+31.77,2.02,Maturity,25.2,Monitor
+26.82,4.17,Vegetative,27.87,Irrigate Now
+33.74,1.11,Seedling,13.34,Monitor
+37.05,6.05,Flowering,23.17,Monitor
+30.6,1.55,Vegetative,46.04,Monitor
+38.66,14.4,Vegetative,47.25,Monitor
+5.0,21.79,Flowering,29.25,Skip - Rain Expected
+52.31,18.49,Vegetative,33.81,Skip - Rain Expected
+29.33,0.79,Maturity,13.26,Irrigate Now
+30.04,0.31,Flowering,19.27,Monitor
+34.83,1.93,Flowering,27.18,Monitor
+27.93,35.13,Vegetative,20.7,Skip - Rain Expected
+39.55,20.26,Flowering,18.59,Skip - Rain Expected
+20.88,1.55,Vegetative,22.84,Irrigate Now
+45.5,5.6,Vegetative,35.05,Monitor
+32.96,6.1,Maturity,37.42,Monitor
+28.92,28.63,Maturity,15.57,Skip - Rain Expected
+54.25,1.01,Flowering,20.08,Monitor
+27.48,2.63,Seedling,14.12,Irrigate Now
+25.93,0.94,Seedling,32.17,Irrigate Now
+21.05,7.37,Seedling,34.89,Irrigate Now
+33.66,17.17,Seedling,25.42,Skip - Rain Expected
+27.09,25.86,Vegetative,8.17,Skip - Rain Expected
+34.71,2.23,Flowering,23.87,Monitor
+16.11,17.89,Seedling,28.31,Skip - Rain Expected
+34.62,13.77,Seedling,25.35,Monitor
+43.36,9.82,Maturity,20.55,Monitor
+26.25,16.9,Maturity,37.25,Skip - Rain Expected
+9.96,2.36,Flowering,28.4,Irrigate Now
+23.62,5.91,Vegetative,18.11,Irrigate Now
+40.2,51.43,Vegetative,13.21,Skip - Rain Expected
+48.01,2.9,Seedling,26.56,Monitor
+25.84,2.23,Seedling,23.21,Irrigate Now
+42.22,12.76,Vegetative,34.31,Monitor
+35.25,6.95,Seedling,24.51,Monitor
+46.14,16.13,Maturity,25.77,Skip - Rain Expected
+40.86,16.13,Flowering,24.1,Skip - Rain Expected
+34.54,1.3,Vegetative,29.32,Monitor
+48.87,9.47,Vegetative,37.1,Monitor
+23.58,19.6,Vegetative,21.7,Skip - Rain Expected
+16.88,21.34,Maturity,27.0,Skip - Rain Expected
+20.0,22.06,Flowering,19.22,Skip - Rain Expected
+49.37,5.22,Vegetative,35.73,Monitor
+43.34,13.65,Maturity,17.73,Monitor
+20.19,55.87,Vegetative,32.24,Skip - Rain Expected
+12.45,9.56,Vegetative,28.86,Irrigate Now
+55.76,3.98,Vegetative,32.1,Monitor
+22.1,21.22,Maturity,26.55,Skip - Rain Expected
+51.81,19.76,Seedling,36.26,Skip - Rain Expected
+33.05,5.23,Maturity,26.81,Monitor
+39.32,11.59,Maturity,30.12,Monitor
+40.37,1.79,Vegetative,25.47,Monitor
+25.11,7.92,Flowering,28.78,Irrigate Now
+35.69,7.46,Maturity,30.17,Monitor
+49.25,16.1,Vegetative,28.78,Skip - Rain Expected
+47.07,9.23,Maturity,20.59,Monitor
+28.74,6.66,Vegetative,29.27,Irrigate Now
+34.73,3.07,Seedling,26.05,Monitor
+46.16,0.87,Seedling,24.73,Monitor
+43.3,2.05,Maturity,20.37,Monitor
+65.56,5.04,Vegetative,24.64,Monitor
+5.0,23.23,Maturity,39.02,Skip - Rain Expected
+36.67,6.96,Vegetative,10.47,Monitor
+33.87,2.32,Vegetative,33.52,Monitor
+37.27,2.53,Maturity,40.76,Monitor
+36.43,9.66,Flowering,26.61,Monitor
+41.1,14.79,Vegetative,15.37,Monitor
+29.22,14.65,Seedling,20.15,Irrigate Now
+28.27,7.98,Vegetative,28.53,Irrigate Now
+30.83,1.15,Seedling,28.15,Monitor
+39.85,13.12,Vegetative,19.14,Monitor
+5.0,1.65,Flowering,11.18,Irrigate Now
+42.32,10.88,Seedling,26.61,Monitor
+46.47,22.14,Seedling,10.69,Skip - Rain Expected
+34.06,37.18,Vegetative,30.11,Skip - Rain Expected
+28.36,9.06,Seedling,20.05,Irrigate Now
+33.92,6.62,Maturity,26.75,Monitor
+21.53,17.87,Maturity,20.94,Skip - Rain Expected
+34.29,28.33,Seedling,13.54,Skip - Rain Expected
+22.61,25.07,Maturity,31.76,Skip - Rain Expected
+45.11,13.19,Seedling,23.61,Monitor
+28.03,6.9,Vegetative,22.23,Irrigate Now
+30.35,17.19,Maturity,22.21,Skip - Rain Expected
+36.77,18.47,Flowering,39.72,Skip - Rain Expected
+27.87,4.13,Flowering,32.07,Irrigate Now
+57.06,4.21,Seedling,35.31,Monitor
+58.33,14.3,Vegetative,24.37,Monitor
+48.48,3.09,Maturity,26.67,Monitor
+29.7,21.45,Flowering,13.88,Skip - Rain Expected
+16.98,8.69,Vegetative,37.85,Irrigate Now
+17.2,2.08,Maturity,23.93,Irrigate Now
+54.91,13.85,Maturity,22.5,Monitor
+45.09,2.63,Flowering,21.16,Monitor
+34.61,60.45,Seedling,35.77,Skip - Rain Expected
+45.25,9.66,Flowering,26.41,Monitor
+36.47,0.74,Maturity,25.24,Monitor
+44.72,49.42,Seedling,31.85,Skip - Rain Expected
+21.5,1.07,Maturity,21.91,Irrigate Now
+22.0,27.21,Vegetative,18.99,Skip - Rain Expected
+37.77,12.1,Maturity,15.93,Monitor
+44.65,19.62,Flowering,24.97,Skip - Rain Expected
+36.46,28.23,Vegetative,26.61,Skip - Rain Expected
+44.06,4.43,Maturity,22.78,Monitor
+26.74,4.54,Seedling,28.85,Irrigate Now
+23.89,20.67,Maturity,20.37,Skip - Rain Expected
+36.68,3.61,Vegetative,34.71,Monitor
+33.19,12.46,Vegetative,27.07,Monitor
+28.97,4.29,Seedling,18.26,Irrigate Now
+31.0,2.42,Seedling,31.78,Monitor
+36.85,7.8,Vegetative,27.78,Monitor
+23.81,6.08,Vegetative,23.57,Irrigate Now
+28.5,16.37,Maturity,37.19,Skip - Rain Expected
+54.53,2.74,Vegetative,40.66,Monitor
+19.47,16.61,Vegetative,23.56,Skip - Rain Expected
+31.35,11.46,Flowering,37.21,Monitor
+19.32,0.06,Maturity,12.88,Irrigate Now
+40.04,5.75,Vegetative,21.46,Monitor
+31.19,1.9,Vegetative,34.79,Monitor
+42.03,6.87,Vegetative,24.45,Monitor
+49.13,14.18,Vegetative,22.77,Monitor
+52.52,4.53,Vegetative,15.87,Monitor
+40.64,2.16,Flowering,29.87,Monitor
+41.0,3.89,Flowering,37.57,Monitor
+45.26,5.51,Flowering,31.52,Monitor
+29.84,3.42,Seedling,33.37,Irrigate Now
+37.83,25.04,Vegetative,35.77,Skip - Rain Expected
+15.45,6.68,Flowering,32.82,Irrigate Now
+39.49,5.65,Seedling,39.44,Monitor
+10.39,6.03,Vegetative,31.01,Irrigate Now
+24.68,1.18,Seedling,19.45,Irrigate Now
+54.99,21.21,Flowering,19.34,Skip - Rain Expected
+37.93,2.04,Seedling,16.16,Monitor
+42.42,1.01,Flowering,20.77,Monitor
+21.51,0.51,Vegetative,13.16,Irrigate Now
+32.96,3.25,Maturity,22.56,Monitor
+22.96,1.47,Flowering,37.39,Irrigate Now
+5.0,9.53,Maturity,27.63,Irrigate Now
+9.83,14.3,Flowering,28.66,Irrigate Now
+17.69,38.05,Maturity,13.41,Skip - Rain Expected
+33.87,6.72,Seedling,29.23,Monitor
+39.49,3.81,Maturity,28.25,Monitor
+46.18,22.27,Vegetative,25.48,Skip - Rain Expected
+23.92,7.26,Vegetative,31.32,Irrigate Now
+7.68,0.8,Vegetative,21.76,Irrigate Now
+27.94,18.33,Seedling,26.24,Skip - Rain Expected
+43.49,2.9,Maturity,19.66,Monitor
+23.17,13.6,Vegetative,31.1,Irrigate Now
+33.62,0.61,Seedling,22.38,Monitor
+47.69,5.91,Vegetative,29.72,Monitor
+39.39,8.97,Flowering,28.45,Monitor
+32.81,5.61,Flowering,17.41,Monitor
+50.21,1.74,Maturity,27.45,Monitor
+39.96,12.91,Vegetative,27.46,Monitor
+20.92,1.55,Vegetative,26.72,Irrigate Now
+20.26,8.91,Flowering,25.58,Irrigate Now
+43.56,0.48,Flowering,24.18,Monitor
+49.7,9.49,Seedling,32.63,Monitor
+45.0,5.25,Seedling,33.24,Monitor
+40.14,1.68,Flowering,31.97,Monitor
+46.09,1.13,Flowering,29.17,Monitor
+10.59,13.01,Vegetative,29.57,Irrigate Now
+56.89,12.78,Flowering,25.44,Monitor
+33.01,8.27,Vegetative,29.8,Monitor
+29.57,27.29,Maturity,24.93,Skip - Rain Expected
+18.95,1.26,Seedling,19.74,Irrigate Now
+45.97,8.52,Seedling,24.12,Monitor
+15.61,6.39,Vegetative,40.32,Irrigate Now
+31.86,4.36,Maturity,14.32,Monitor
+40.26,14.2,Flowering,23.55,Monitor
+20.7,2.3,Vegetative,21.17,Irrigate Now
+63.91,4.51,Vegetative,15.99,Monitor
+55.7,11.87,Vegetative,28.55,Monitor
+10.47,8.44,Seedling,36.5,Irrigate Now
+63.49,31.56,Maturity,15.87,Skip - Rain Expected
+6.68,10.09,Vegetative,30.9,Irrigate Now
+41.68,10.44,Flowering,27.08,Monitor
+38.09,12.4,Flowering,33.93,Monitor
+39.85,14.8,Vegetative,27.49,Monitor
+23.01,1.04,Seedling,19.55,Irrigate Now
+40.04,7.91,Flowering,22.1,Monitor
+34.15,15.31,Seedling,29.67,Skip - Rain Expected
+44.05,6.37,Vegetative,29.38,Monitor
+41.75,30.22,Vegetative,25.21,Skip - Rain Expected
+39.6,9.69,Seedling,28.1,Monitor
+41.06,7.05,Flowering,21.36,Monitor
+44.1,21.81,Maturity,30.03,Skip - Rain Expected
+47.49,0.85,Vegetative,15.11,Monitor
+37.04,4.29,Seedling,18.85,Monitor
+47.48,3.56,Vegetative,25.66,Monitor
+51.71,0.65,Seedling,25.75,Monitor
+64.97,11.62,Vegetative,43.9,Monitor
+42.49,2.45,Vegetative,23.51,Monitor
+22.07,6.14,Flowering,26.55,Irrigate Now
+35.82,2.4,Seedling,32.89,Monitor
+17.3,14.52,Vegetative,23.91,Irrigate Now
+30.92,9.19,Flowering,31.32,Monitor
+33.63,1.54,Flowering,29.39,Monitor
+46.36,0.11,Seedling,24.05,Monitor
+37.06,5.31,Flowering,12.3,Monitor
+52.06,4.14,Flowering,39.89,Monitor
+14.64,0.65,Vegetative,27.96,Irrigate Now
+40.54,5.02,Maturity,42.08,Monitor
+47.29,9.62,Flowering,16.51,Monitor
+6.03,5.5,Maturity,10.22,Irrigate Now
+51.05,13.11,Seedling,30.25,Monitor
+26.23,13.64,Vegetative,21.58,Irrigate Now

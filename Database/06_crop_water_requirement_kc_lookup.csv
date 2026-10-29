@@ -1,0 +1,33 @@
+crop,growth_stage,kc_coefficient,stage_duration_days
+Wheat,Initial,0.3,30
+Wheat,Development,0.7,32
+Wheat,Mid-season,1.15,18
+Wheat,Late season,0.4,30
+Rice,Initial,1.05,36
+Rice,Development,1.1,32
+Rice,Mid-season,1.2,44
+Rice,Late season,0.9,28
+Maize,Initial,0.3,31
+Maize,Development,0.7,33
+Maize,Mid-season,1.2,33
+Maize,Late season,0.5,38
+Sugarcane,Initial,0.4,17
+Sugarcane,Development,0.8,19
+Sugarcane,Mid-season,1.25,27
+Sugarcane,Late season,0.75,15
+Cotton,Initial,0.35,42
+Cotton,Development,0.75,16
+Cotton,Mid-season,1.15,26
+Cotton,Late season,0.6,30
+Tomato,Initial,0.6,30
+Tomato,Development,0.8,36
+Tomato,Mid-season,1.15,38
+Tomato,Late season,0.8,28
+Potato,Initial,0.5,21
+Potato,Development,0.75,23
+Potato,Mid-season,1.15,32
+Potato,Late season,0.75,25
+Soybean,Initial,0.4,42
+Soybean,Development,0.75,25
+Soybean,Mid-season,1.15,21
+Soybean,Late season,0.5,15
